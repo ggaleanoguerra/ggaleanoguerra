@@ -1,1 +1,1 @@
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=m24vk5shes6qs8wq8tzet5bua&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=m24vk5shes6qs8wq8tzet5bua&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)">
+<iframe src="https://spotify-github-profile.vercel.app/api/view.svg?uid=m24vk5shes6qs8wq8tzet5bua&redirect=true" frameborder="0" scrolling="no" width="300" height="380"></iframe>
